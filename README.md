@@ -59,8 +59,6 @@ def get_community_data(url):
 
 ### 3.1. 전체 입장 분포 (Stance Distribution)
 
-https://github.com/sunghwan410/CapstoneProject3/blob/main/%EB%84%A4%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%841.png?raw=true
-
 
 * **반대/비판 (46.0%):**
     여론의 절반 가까이가 약물 사용에 대해 부정적입니다. 이는 커뮤니티가 약물 사용을 강력하게 배척하는 규범을 가지고 있음을 시사합니다.
@@ -74,12 +72,9 @@ https://github.com/sunghwan410/CapstoneProject3/blob/main/%EB%84%A4%EB%AA%A8%EA%
 
 단순히 "반대가 많다"는 사실을 넘어, **"왜 반대하는가?"**를 규명하기 위해 분류된 각 입장 그룹에 대해 **BERTopic (토픽 모델링)**을 수행하였습니다.
 
-### 4.1. 의미론적 군집 시각화 (Semantic Clusters)
 
-![Semantic Clusters](점그래프1.png)
-<img width="551" height="428" alt="점그래프1" src="https://github.com/user-attachments/assets/fe9e85ba-6542-450b-9852-a643bf00e65e" />
 
-위 시각화는 문장들의 의미론적 거리를 2차원으로 매핑한 결과입니다.
+
 
 * **반대(Red) 논거의 이원화:**
     반대 여론은 단일하지 않고 두 가지 축으로 뚜렷하게 나뉩니다.
