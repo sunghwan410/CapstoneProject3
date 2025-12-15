@@ -77,6 +77,7 @@ def get_community_data(url):
 ### 4.1. 의미론적 군집 시각화 (Semantic Clusters)
 
 ![Semantic Clusters](점그래프1.png)
+<img width="551" height="428" alt="점그래프1" src="https://github.com/user-attachments/assets/fe9e85ba-6542-450b-9852-a643bf00e65e" />
 
 위 시각화는 문장들의 의미론적 거리를 2차원으로 매핑한 결과입니다.
 
