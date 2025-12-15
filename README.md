@@ -59,7 +59,7 @@ def get_community_data(url):
 
 ### 3.1. 전체 입장 분포 (Stance Distribution)
 
-![Stance Distribution]<img width="548" height="461" alt="스크린샷 2025-12-15 105312" src="https://github.com/user-attachments/assets/0669cdae-9671-4a55-9334-ce236fa4d228" />
+https://github.com/sunghwan410/CapstoneProject3/blob/main/%EB%84%A4%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%841.png?raw=true
 
 
 * **반대/비판 (46.0%):**
