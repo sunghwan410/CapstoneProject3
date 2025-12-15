@@ -59,7 +59,8 @@ def get_community_data(url):
 
 ### 3.1. 전체 입장 분포 (Stance Distribution)
 
-![Stance Distribution](원그래프1.png)
+![Stance Distribution]<img width="548" height="461" alt="스크린샷 2025-12-15 105312" src="https://github.com/user-attachments/assets/0669cdae-9671-4a55-9334-ce236fa4d228" />
+
 
 * **반대/비판 (46.0%):**
     여론의 절반 가까이가 약물 사용에 대해 부정적입니다. 이는 커뮤니티가 약물 사용을 강력하게 배척하는 규범을 가지고 있음을 시사합니다.
