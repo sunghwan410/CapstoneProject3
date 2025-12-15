@@ -121,6 +121,7 @@ def get_community_data(driver, url):
 
 ![Confusion Matrix]
 <img width="556" height="468" alt="네모그래프1" src="https://github.com/user-attachments/assets/43d121c4-eade-42ff-bc26-3eb3bf79d2f3" />
+<img width="556" height="468" alt="네모그래프1" src="https://github.com/user-attachments/assets/b3c5250a-ab4d-47e3-b767-158d7f866675" />
 
 * **Macro F1-score: 0.81** (불균형 데이터임에도 우수한 성능)
 * **Analysis:**
