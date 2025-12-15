@@ -65,7 +65,7 @@ def get_community_data(driver, url):
 
 ### 3.1. 전체 입장 분포 (Stance Distribution)
 
-![Stance Distribution]https://i.ifh.cc/nTz3L5.png
+![Stance Distribution]<a href='https://ifh.cc/v-nTz3L5' target='_blank'><img src='https://i.ifh.cc/nTz3L5.png' border='0'></a>
 
 * **반대/비판 (46.0%):** 여론의 절반 가까이가 약물 사용에 대해 부정적입니다. 이는 커뮤니티가 약물 사용을 강력하게 배척하는 규범을 가지고 있음을 시사합니다.
 * **정보/질문 (15.0%):** 단순 옹호(8.0%)보다 실질적인 정보를 묻거나 공유하는 비율이 약 2배 높습니다. 이는 **잠재적 사용자 층**이나 **부작용 위험군**이 상당히 존재함을 의미합니다.
